@@ -7,7 +7,7 @@ References:
  - XDA Thread: https://forum.xda-developers.com/nexus-5x/general/untested-nexus-5x-bootloop-death-fix-t3641199
  - Original changes: https://github.com/xcnathan32/4Core-Android-O-5X/commit/a4814e7e9c05e09d41ad1621f9d95f7eea409d77
 
-This script has been tested on Nexus 5X Oreo (OPR4.170623.009) boot and recovery images.
+This script requires Python 2.7 or Python 3. It has been tested on Nexus 5X Oreo (OPR4.170623.009) boot and recovery images.
 
 ## Usage
 Run this script in order to generate new boot and recovery images
